@@ -1,4 +1,4 @@
-# Aluna: Ana Clara Bastos Moraes    
+  
 
 
 # Importando a biblioteca responsável por fazer gráficos com os pontos
